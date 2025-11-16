@@ -1,0 +1,9 @@
+{
+  "appName": "CrypsenseAI",
+  "version": "1.0.0",
+  "theme": "dark",
+  "apiEndpoints": {
+    "openrouter": "https://openrouter.ai/api/v1",
+    "github": "https://api.github.com"
+  }
+}
