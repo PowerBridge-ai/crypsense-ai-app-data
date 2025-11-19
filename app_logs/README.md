@@ -1,3 +1,3 @@
 # App Activity Logs
 
-This directory will be used to store application activity logs, such as settings changes and other important events.
+This directory stores system-level activity logs, such as settings changes, API errors, and other important server-side events. This is distinct from individual user activity.
