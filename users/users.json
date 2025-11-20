@@ -17,5 +17,15 @@
     "role": "Member",
     "status": "Active",
     "lastLogin": "2025-11-20T11:33:20.363Z"
+  },
+  {
+    "id": 3,
+    "name": "User 0x789e",
+    "email": "No email",
+    "avatar": "https://picsum.photos/seed/0x789eaB90e02Ed6Ad4C9c96c9bEA3eaF726651221/40/40",
+    "walletAddress": "0x789eaB90e02Ed6Ad4C9c96c9bEA3eaF726651221",
+    "role": "Member",
+    "status": "Active",
+    "lastLogin": "2025-11-20T11:34:11.488Z"
   }
 ]
