@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "User 0xc1d4",
+    "email": "No email",
+    "avatar": "https://picsum.photos/seed/0xc1d432e1Fc0e2c2EBba735b407BB0BAe4ef29F42/40/40",
+    "walletAddress": "0xc1d432e1Fc0e2c2EBba735b407BB0BAe4ef29F42",
+    "role": "Member",
+    "status": "Active",
+    "lastLogin": "2025-11-20T16:00:30.463Z"
+  }
+]
