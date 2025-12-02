@@ -1,0 +1,29 @@
+{
+  "chatHistory": [
+    {
+      "role": "user",
+      "content": "hello",
+      "timestamp": "2025-12-02T16:00:58.101Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello! How can I assist you today? If you have questions about the CrypsenseAI platform, Kenyan VASP regulations, or anything else within my expertise, feel free to ask!",
+      "timestamp": "2025-12-02T16:00:58.101Z",
+      "tokenUsage": {
+        "prompt_tokens": 175,
+        "completion_tokens": 38,
+        "total_tokens": 213,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      }
+    }
+  ]
+}
