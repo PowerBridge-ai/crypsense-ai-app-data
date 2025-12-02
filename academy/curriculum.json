@@ -1,0 +1,86 @@
+
+{
+  "pathways": [
+    {
+      "id": "vasp-business-compliance",
+      "title": "VASP Business Compliance & Licensing Pathway",
+      "description": "For corporate entities, local or foreign, that offer services categorized under the VASP Act, transitioning from unlicensed operators to fully licensed financial institutions.",
+      "courses": [
+        {
+          "id": "vasp-foundations",
+          "title": "Module 1: VASP Foundations and Regulatory Scope",
+          "description": "Establishes the legal mandate for VASP compliance, defining which activities require a license from the CMA or CBK.",
+          "modules": [
+            { "moduleId": "1.1", "title": "The VASP Legal Mandate" },
+            { "moduleId": "1.2", "title": "Dual Jurisdiction (CMA & CBK)" },
+            { "moduleId": "1.3", "title": "Payment & Settlement" },
+            { "moduleId": "1.4", "title": "Market & Investment" },
+            { "moduleId": "1.5", "title": "Digital Asset Definition" }
+          ]
+        },
+        {
+          "id": "corporate-governance",
+          "title": "Module 2: Corporate Governance and Licensing Obligations",
+          "description": "Covers the strict requirements for VASP eligibility, focusing on financial soundness, leadership integrity, and physical presence in Kenya.",
+           "modules": [
+            { "moduleId": "2.1", "title": "Entity & Local Presence" },
+            { "moduleId": "2.2", "title": "Fit and Proper Persons" },
+            { "moduleId": "2.3", "title": "Financial Soundness" },
+            { "moduleId": "2.4", "title": "AML/CFT Integration" }
+          ]
+        },
+        {
+          "id": "operational-integrity",
+          "title": "Module 3: Operational Integrity and Risk Mitigation",
+          "description": "Ensures ongoing operational compliance, cybersecurity, and adherence to market conduct rules.",
+           "modules": [
+            { "moduleId": "3.1", "title": "Customer Asset Protection" },
+            { "moduleId": "3.2", "title": "Cybersecurity & Reporting" },
+            { "moduleId": "3.3", "title": "Transparency & Marketing" },
+            { "moduleId": "3.4", "title": "Audit and Reporting" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "individual-user-participation",
+      "title": "Individual User & Ecosystem Participation Pathway",
+      "description": "For Retail Users and Aspiring Developers seeking to leverage the Crypsense ecosystem for financial health and skill certification.",
+      "courses": [
+        {
+          "id": "foundational-literacy",
+          "title": "Module 1: Foundational Literacy, Safety, and Compliance",
+          "description": "Focuses on protecting the individual user from prevalent digital threats and ensuring personal compliance.",
+          "modules": [
+            { "moduleId": "1.1", "title": "Digital Finance Literacy" },
+            { "moduleId": "1.2", "title": "Identifying Scams & Frauds" },
+            { "moduleId": "1.3", "title": "Personal Security Best Practices" },
+            { "moduleId": "1.4", "title": "Zero Trust & Fee Transparency" }
+          ]
+        },
+        {
+          "id": "learn-to-earn-model",
+          "title": "Module 2: The Learn-to-Earn (LMS) Model and Micro-Task Economy",
+          "description": "Focuses on the user journey within the Crypsense Academy, where skills are certified and monetized.",
+           "modules": [
+            { "moduleId": "2.1", "title": "Academy Skill Tracks" },
+            { "moduleId": "2.2", "title": "Earning Rewards (STAR Points)" },
+            { "moduleId": "2.3", "title": "The Micro-Task Marketplace" },
+            { "moduleId": "2.4", "title": "Gated Access & Premium Features" }
+          ]
+        },
+        {
+          "id": "advanced-participation",
+          "title": "Module 3: Advanced Ecosystem Participation and Development",
+          "description": "Tailored for users interested in deeper financial activities, smart contract development, and market stabilization.",
+           "modules": [
+            { "moduleId": "3.1", "title": "Staking & Liquidity Provision" },
+            { "moduleId": "3.2", "title": "Blockchain Development & AI" },
+            { "moduleId": "3.3", "title": "VASP Sandbox & Infrastructure" },
+            { "moduleId": "3.4", "title": "Market Stability Mechanics" }
+          ]
+        }
+      ]
+    }
+  ]
+}
