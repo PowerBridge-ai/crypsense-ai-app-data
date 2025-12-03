@@ -66,21 +66,4 @@
             { "moduleId": "2.1", "title": "Academy Skill Tracks" },
             { "moduleId": "2.2", "title": "Earning Rewards (STAR Points)" },
             { "moduleId": "2.3", "title": "The Micro-Task Marketplace" },
-            { "moduleId": "2.4", "title": "Gated Access & Premium Features" }
-          ]
-        },
-        {
-          "id": "advanced-participation",
-          "title": "Module 3: Advanced Ecosystem Participation and Development",
-          "description": "Tailored for users interested in deeper financial activities, smart contract development, and market stabilization.",
-           "modules": [
-            { "moduleId": "3.1", "title": "Staking & Liquidity Provision" },
-            { "moduleId": "3.2", "title": "Blockchain Development & AI" },
-            { "moduleId": "3.3", "title": "VASP Sandbox & Infrastructure" },
-            { "moduleId": "3.4", "title": "Market Stability Mechanics" }
-          ]
-        }
-      ]
-    }
-  ]
-}
+            {
