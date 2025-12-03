@@ -18,5 +18,14 @@
     "role": "Admin",
     "status": "Active",
     "lastLogin": "2025-11-21T10:48:57.911Z"
+  },
+  {
+    "id": 1764723959906,
+    "walletAddress": "0x349915204B2a321770738D6d0A51281000839DC5",
+    "name": "User 0x3499...",
+    "email": "",
+    "avatar": "https://picsum.photos/seed/0x349915204B2a321770738D6d0A51281000839DC5/100/100",
+    "role": "Member",
+    "status": "Active"
   }
 ]
