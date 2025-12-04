@@ -39,6 +39,37 @@
               "image_tokens": 0
             }
           }
+        },
+        {
+          "role": "user",
+          "content": "How does Crypsense token work?",
+          "timestamp": "2025-12-04T18:09:12.236Z"
+        },
+        {
+          "role": "assistant",
+          "content": "The Crypsense token is an integral part of the CrypsenseAI ecosystem, designed to facilitate various functions and offer value to users. Here’s a general overview of how the Crypsense token operates:\n\n1. **Utility and Access:**\n   - The token may be used as a medium for accessing services and features on the CrypsenseAI platform, such as exclusive content, advanced courses, or premium tools.\n\n2. **Incentives and Rewards:**\n   - Users can earn Crypsense tokens as rewards for completing courses, participating in community activities, or contributing to the platform. These tokens can incentivize active engagement and learning.\n\n3. **Transaction Facilitation:**\n   - Crypsense tokens can facilitate transactions within the platform. They might be used to pay for services, courses, or even to access specific blockchain-related utilities.\n\n4. **Governance and Voting:**\n   - Token holders might have the opportunity to participate in governance decisions on the platform, such as voting on new features or changes in policies, promoting decentralized decision-making.\n\n5. **Staking and Holding Benefits:**\n   - Users may have the option to stake their tokens to earn additional rewards or benefits, encouraging long-term engagement and investment in the platform.\n\n6. **Market Trading:**\n   - Depending on regulatory approval and market conditions, Crypsense tokens could be traded on supported exchanges, providing liquidity and market-driven value to token holders.\n\nAlways ensure to keep updated with CrypsenseAI's official communications for any specific features or changes in the token's functions, as these can evolve over time to better suit the needs of the community and comply with regulatory standards.",
+          "timestamp": "2025-12-04T18:09:12.236Z",
+          "tokenUsage": {
+            "prompt_tokens": 543,
+            "completion_tokens": 335,
+            "total_tokens": 878,
+            "cost": 0.0047075,
+            "is_byok": false,
+            "prompt_tokens_details": {
+              "cached_tokens": 0,
+              "audio_tokens": 0,
+              "video_tokens": 0
+            },
+            "cost_details": {
+              "upstream_inference_cost": null,
+              "upstream_inference_prompt_cost": 0.0013575,
+              "upstream_inference_completions_cost": 0.00335
+            },
+            "completion_tokens_details": {
+              "reasoning_tokens": 0,
+              "image_tokens": 0
+            }
+          }
         }
       ]
     }
