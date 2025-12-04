@@ -280,6 +280,43 @@
           }
         }
       ]
+    },
+    "session_1764871157496": {
+      "startTime": "2025-12-04T17:59:26.486Z",
+      "inferredTopic": "New Conversation",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Guide me through the VASP (Virtual Asset Service Provider) onboarding process for Kenya.",
+          "timestamp": "2025-12-04T17:59:26.486Z"
+        },
+        {
+          "role": "assistant",
+          "content": "The VASP onboarding process in Kenya involves several steps to ensure compliance with the Kenyan VASP Act, 2025, as well as regulations from the Capital Markets Authority (CMA) and the Central Bank of Kenya (CBK). Here's a general guide to help you through the process:\n\n1. **Business Registration:**\n   - Ensure that your business is registered in Kenya as a legal entity. This might involve incorporating a company through the Registrar of Companies.\n\n2. **Prepare Documentation:**\n   - Compile essential documents including the business's certificate of incorporation, company constitution, and details about the directors and shareholders.\n   - Prepare a detailed business plan outlining your virtual asset activities.\n\n3. **Risk Assessment and AML/CFT Framework:**\n   - Conduct a comprehensive risk assessment concerning the business's virtual asset activities.\n   - Develop and document a robust Anti-Money Laundering (AML) and Counter-Financing of Terrorism (CFT) framework in accordance with Kenyan regulations.\n\n4. **Application to CMA:**\n   - Submit an application to the Capital Markets Authority detailing your intention to operate as a VASP.\n   - Include your risk assessment, AML/CFT framework, and all necessary documentation.\n\n5. **Compliance and Licensing:**\n   - Upon submission, the CMA will review your application to ensure you meet all regulatory requirements.\n   - Be prepared to respond to any queries or requests for additional information.\n\n6. **CBK Notification:**\n   - Notify the Central Bank of Kenya of your intended operations as a VASP and ensure you meet any additional requirements they may have.\n\n7. **Technology and Security:**\n   - Implement secure systems and infrastructure to support your operations, ensuring they meet industry standards for data protection and cybersecurity.\n   - This may involve audits or assessments by third-party providers.\n\n8. **Training and Staffing:**\n   - Ensure that your staff are trained in compliance matters, particularly in the areas of AML and CFT.\n   - Designate a compliance officer responsible for overseeing adherence to these frameworks.\n\n9. **Regular Reporting and Audits:**\n   - Stay compliant with ongoing reporting requirements set by the CMA and CBK.\n   - Participate in regular audits to maintain compliance.\n\n10. **Launch and Operation:**\n    - Once approval is granted, you can commence operations as a VASP.\n    - Continuously monitor and update your compliance and security measures in line with regulatory updates and industry best practices.\n\nEnsure that throughout the process you work closely with legal and compliance experts who are familiar with the specifics of the Kenyan regulatory environment.",
+          "timestamp": "2025-12-04T17:59:26.486Z",
+          "tokenUsage": {
+            "prompt_tokens": 192,
+            "completion_tokens": 516,
+            "total_tokens": 708,
+            "cost": 0.00564,
+            "is_byok": false,
+            "prompt_tokens_details": {
+              "cached_tokens": 0,
+              "audio_tokens": 0,
+              "video_tokens": 0
+            },
+            "cost_details": {
+              "upstream_inference_cost": null,
+              "upstream_inference_prompt_cost": 0.00048,
+              "upstream_inference_completions_cost": 0.00516
+            },
+            "completion_tokens_details": {
+              "reasoning_tokens": 0,
+              "image_tokens": 0
+            }
+          }
+        }
+      ]
     }
   }
 }
