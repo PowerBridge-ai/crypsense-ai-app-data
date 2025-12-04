@@ -3,5 +3,44 @@
   "userId": 1764871633750,
   "walletAddress": "0xCDAf35B3D9d47a2beae1B86F06614F525c3555dB",
   "loginTime": "2025-12-04T18:07:15.960Z",
-  "chatHistory": []
+  "chatHistory": [],
+  "sessions": {
+    "session_1764871646149": {
+      "startTime": "2025-12-04T18:07:54.214Z",
+      "inferredTopic": "New Conversation",
+      "messages": [
+        {
+          "role": "user",
+          "content": "What is the compliance process in Kenya?",
+          "timestamp": "2025-12-04T18:07:54.214Z"
+        },
+        {
+          "role": "assistant",
+          "content": "In Kenya, the compliance process for Virtual Asset Service Providers (VASPs) involves several key steps and adherence to regulatory frameworks established by the Kenyan VASP Act, 2025, and guidelines from authorities such as the Capital Markets Authority (CMA) and the Central Bank of Kenya (CBK). Here's an overview of the process:\n\n1. **Registration and Licensing:**\n   - VASPs must register with and obtain a license from the relevant regulatory body, typically the CMA or CBK, depending on the nature of the services offered.\n\n2. **Adherence to AML/CFT Regulations:**\n   - VASPs must implement strong Anti-Money Laundering (AML) and Counter-Financing of Terrorism (CFT) frameworks. This includes conducting customer due diligence (CDD), maintaining transaction records, and reporting suspicious activities.\n\n3. **Risk Management:**\n   - Develop and maintain a risk management strategy that identifies, assesses, and mitigates potential risks associated with virtual asset transactions.\n\n4. **Data Protection and Privacy:**\n   - Ensure compliance with data protection laws to safeguard customer information and maintain privacy obligations.\n\n5. **Reporting Obligations:**\n   - Regularly submit reports to the regulatory authorities, including transaction reports and any instances of suspicious activities or breaches.\n\n6. **Continuous Monitoring and Auditing:**\n   - Implement systems for ongoing monitoring of transactions and conduct periodic audits to ensure compliance with regulatory requirements.\n\n7. **Staff Training:**\n   - Provide regular training to employees on compliance obligations, AML/CFT practices, and the evolving regulatory landscape.\n\nEngaging with legal and compliance experts throughout the process helps ensure adherence to all regulatory requirements and successful operation within Kenya's legal framework.",
+          "timestamp": "2025-12-04T18:07:54.214Z",
+          "tokenUsage": {
+            "prompt_tokens": 183,
+            "completion_tokens": 344,
+            "total_tokens": 527,
+            "cost": 0.0038975,
+            "is_byok": false,
+            "prompt_tokens_details": {
+              "cached_tokens": 0,
+              "audio_tokens": 0,
+              "video_tokens": 0
+            },
+            "cost_details": {
+              "upstream_inference_cost": null,
+              "upstream_inference_prompt_cost": 0.0004575,
+              "upstream_inference_completions_cost": 0.00344
+            },
+            "completion_tokens_details": {
+              "reasoning_tokens": 0,
+              "image_tokens": 0
+            }
+          }
+        }
+      ]
+    }
+  }
 }
