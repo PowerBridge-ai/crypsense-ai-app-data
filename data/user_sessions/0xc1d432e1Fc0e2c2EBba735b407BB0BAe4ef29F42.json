@@ -210,6 +210,37 @@
           "image_tokens": 0
         }
       }
+    },
+    {
+      "role": "user",
+      "content": "Explain the tokenomics of the $CRYS token to me like I'm new to crypto.",
+      "timestamp": "2025-12-04T15:28:06.021Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Certainly! Tokenomics is a term that combines \"token\" and \"economics,\" referring to the economic system and strategy behind a particular cryptocurrency token. Let's break down the tokenomics of the $CRYS token, designed to support the CrypsenseAI ecosystem.\n\n1. **Purpose**: $CRYS is the native utility token of the CrypsenseAI platform. It serves various roles, from facilitating transactions within the ecosystem to rewarding users for specific activities like learning and participation.\n\n2. **Supply**: The total supply of $CRYS tokens is capped, meaning there is a maximum limit on the number of tokens that will ever be created. This scarcity can help increase demand if the platform gains popularity.\n\n3. **Distribution**: $CRYS tokens are distributed across several areas:\n   - **Community Rewards**: Users earn tokens through educational courses, completing tasks, or engaging in platform activities.\n   - **Development**: Some tokens are reserved for enhancing the CrypsenseAI platform, ensuring ongoing upgrades and innovation.\n   - **Operational Costs**: Covering expenses related to platform maintenance and vendor payments.\n   - **Founders and Team**: A portion is allocated to early supporters, ensuring they are incentivized to continue promoting and developing the platform.\n\n4. **Use Case**: Within the CrypsenseAI ecosystem, users can use $CRYS to pay for premium courses, participate in special events, unlock exclusive content, or even stake tokens for potential rewards.\n\n5. **Incentives and Governance**: $CRYS holders may have voting rights on proposals affecting platform development or changes, thus having a say in its future direction.\n\nBy understanding these components, you get a glimpse into how $CRYS is designed to create a sustainable and rewarding environment for users on the CrypsenseAI platform. If you have any more questions about how $CRYS works or its role in the ecosystem, feel free to ask!",
+      "timestamp": "2025-12-04T15:28:06.021Z",
+      "tokenUsage": {
+        "prompt_tokens": 193,
+        "completion_tokens": 391,
+        "total_tokens": 584,
+        "cost": 0.0043925,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": null,
+          "upstream_inference_prompt_cost": 0.0004825,
+          "upstream_inference_completions_cost": 0.00391
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "image_tokens": 0
+        }
+      }
     }
   ]
 }
