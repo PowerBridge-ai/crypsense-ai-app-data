@@ -117,6 +117,37 @@
           "image_tokens": 0
         }
       }
+    },
+    {
+      "role": "user",
+      "content": "Review my profile and suggest ways I can improve my reputation score.",
+      "timestamp": "2025-12-04T15:26:51.046Z"
+    },
+    {
+      "role": "assistant",
+      "content": "To improve your reputation score on the CrypsenseAI platform, you can consider the following strategies:\n\n1. **Complete Courses:** Finish any incomplete courses in the CrypsenseAI ecosystem. Completing advanced courses can often give you more points.\n\n2. **Engage with the Community:** Participate actively in forums and discussion groups. Share insights, answer questions, and contribute to community discussions.\n\n3. **Timely Task Completion:** Ensure that any tasks or assignments you have within the platform are completed on time and with high quality.\n\n4. **Earn Certifications:** Obtain certifications in areas related to blockchain, tokenomics, or VASP compliance, which can boost your profile.\n\n5. **Refer Others:** If the platform has a referral program, referring others to join CrypsenseAI can often increase your score.\n\n6. **Regular Activity:** Log in regularly and engage with platform features and updates to maintain an active presence.\n\nIf you need specific details or personalized suggestions based on your account activity, please let me know, and I'll guide you further!",
+      "timestamp": "2025-12-04T15:26:51.046Z",
+      "tokenUsage": {
+        "prompt_tokens": 188,
+        "completion_tokens": 208,
+        "total_tokens": 396,
+        "cost": 0.00255,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": null,
+          "upstream_inference_prompt_cost": 0.00047,
+          "upstream_inference_completions_cost": 0.00208
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "image_tokens": 0
+        }
+      }
     }
   ]
 }
