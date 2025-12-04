@@ -179,6 +179,37 @@
           "image_tokens": 0
         }
       }
+    },
+    {
+      "role": "user",
+      "content": "Explain the tokenomics of the $CRYS token to me like I'm new to crypto.",
+      "timestamp": "2025-12-04T15:28:02.674Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Certainly! Tokenomics refers to the economic system behind a cryptocurrency token, which includes its creation, distribution, and use. Here's a breakdown of the $CRYS token's tokenomics in simple terms:\n\n1. **Supply**: The total number of $CRYS tokens that will ever exist. Knowing the maximum supply helps understand scarcity.\n\n2. **Distribution**: How the tokens are allocated. Typically, they are divided among different stakeholders like the team, investors, community, and for ecosystem development. This allocation affects how the value and control are distributed.\n\n3. **Utility**: This explains what the $CRYS token can be used for within the CrypsenseAI ecosystem. It might include paying for services, accessing premium features, or participating in governance decisions.\n\n4. **Incentives**: These are rewards given to users to encourage certain behaviors. For example, users might earn $CRYS tokens as rewards for completing courses, contributing to the platform, or staking.\n\n5. **Burn Mechanism**: Some tokens incorporate burning, where a portion of tokens is destroyed to reduce the supply, potentially increasing the value of remaining tokens.\n\nUnderstanding these components helps you navigate how the $CRYS token functions within the CrypsenseAI platform and the broader crypto market. If you have more specific questions about $CRYS or another aspect of crypto, feel free to ask!",
+      "timestamp": "2025-12-04T15:28:02.674Z",
+      "tokenUsage": {
+        "prompt_tokens": 193,
+        "completion_tokens": 277,
+        "total_tokens": 470,
+        "cost": 0.0032525,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": null,
+          "upstream_inference_prompt_cost": 0.0004825,
+          "upstream_inference_completions_cost": 0.00277
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "image_tokens": 0
+        }
+      }
     }
   ]
 }
