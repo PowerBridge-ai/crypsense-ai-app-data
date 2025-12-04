@@ -242,5 +242,44 @@
         }
       }
     }
-  ]
+  ],
+  "sessions": {
+    "session_1764871136795": {
+      "startTime": "2025-12-04T17:59:05.256Z",
+      "inferredTopic": "New Conversation",
+      "messages": [
+        {
+          "role": "user",
+          "content": "hello",
+          "timestamp": "2025-12-04T17:59:05.256Z"
+        },
+        {
+          "role": "assistant",
+          "content": "Hello! How can I assist you today with your queries related to the CrypsenseAI platform or the VASP and compliance regulations in Kenya?",
+          "timestamp": "2025-12-04T17:59:05.256Z",
+          "tokenUsage": {
+            "prompt_tokens": 176,
+            "completion_tokens": 29,
+            "total_tokens": 205,
+            "cost": 0.00073,
+            "is_byok": false,
+            "prompt_tokens_details": {
+              "cached_tokens": 0,
+              "audio_tokens": 0,
+              "video_tokens": 0
+            },
+            "cost_details": {
+              "upstream_inference_cost": null,
+              "upstream_inference_prompt_cost": 0.00044,
+              "upstream_inference_completions_cost": 0.00029
+            },
+            "completion_tokens_details": {
+              "reasoning_tokens": 0,
+              "image_tokens": 0
+            }
+          }
+        }
+      ]
+    }
+  }
 }
