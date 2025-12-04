@@ -317,6 +317,43 @@
           }
         }
       ]
+    },
+    "session_1764871187217": {
+      "startTime": "2025-12-04T17:59:53.047Z",
+      "inferredTopic": "New Conversation",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Guide me through the VASP (Virtual Asset Service Provider) onboarding process for Kenya.",
+          "timestamp": "2025-12-04T17:59:53.047Z"
+        },
+        {
+          "role": "assistant",
+          "content": "Onboarding as a Virtual Asset Service Provider (VASP) in Kenya involves a series of steps to ensure compliance with the Kenyan VASP Act, 2025, as well as regulations from the Capital Markets Authority (CMA) and the Central Bank of Kenya (CBK). Here’s a general guide to help you through the process:\n\n1. **Understand Regulatory Requirements:**\n   - Familiarize yourself with the VASP Act, 2025, which outlines the legal framework for VASPs in Kenya.\n   - Review the specific guidelines and regulations provided by the CMA and CBK, ensuring comprehensive understanding of compliance obligations, including Anti-Money Laundering (AML) and Counter-Financing of Terrorism (CFT) measures.\n\n2. **Business Registration:**\n   - Register your business entity with the appropriate government agency in Kenya.\n   - Obtain any necessary business permits and licenses.\n\n3. **Compliance Setup:**\n   - Implement AML/CFT policies and procedures as mandated by Kenyan law.\n   - Establish a robust Know Your Customer (KYC) process to verify the identity of users.\n   - Develop a system for transaction monitoring and reporting suspicious activities.\n\n4. **Application Preparation:**\n   - Prepare detailed documentation for VASP license application, which generally includes:\n     - Business plan detailing your operations and services.\n     - Risk assessment and risk management strategies.\n     - Internal control mechanisms and audit processes.\n   \n5. **Submission to the CMA/CBK:**\n   - Submit the VASP license application to the CMA or CBK, depending on the nature of your services.\n   - Pay any applicable fees associated with the application process.\n\n6. **Assessment and Response:**\n   - Await the evaluation of your application by the relevant authority.\n   - Respond promptly to any requests for additional information or clarifications.\n\n7. **Obtain VASP License:**\n   - Once approved, you will be granted a VASP license, allowing you to legally operate in Kenya.\n\n8. **Continuous Compliance:**\n   - Ensure ongoing compliance with all regulatory requirements, including regular audits and reports as specified by the authorities.\n\nThroughout this process, seeking legal or professional advice can be beneficial to ensure all regulatory nuances are properly addressed and to facilitate a smoother onboarding experience.",
+          "timestamp": "2025-12-04T17:59:53.047Z",
+          "tokenUsage": {
+            "prompt_tokens": 192,
+            "completion_tokens": 457,
+            "total_tokens": 649,
+            "cost": 0.00505,
+            "is_byok": false,
+            "prompt_tokens_details": {
+              "cached_tokens": 0,
+              "audio_tokens": 0,
+              "video_tokens": 0
+            },
+            "cost_details": {
+              "upstream_inference_cost": null,
+              "upstream_inference_prompt_cost": 0.00048,
+              "upstream_inference_completions_cost": 0.00457
+            },
+            "completion_tokens_details": {
+              "reasoning_tokens": 0,
+              "image_tokens": 0
+            }
+          }
+        }
+      ]
     }
   }
 }
