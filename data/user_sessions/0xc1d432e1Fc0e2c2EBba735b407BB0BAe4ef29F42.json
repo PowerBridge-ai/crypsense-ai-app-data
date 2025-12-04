@@ -55,6 +55,37 @@
           "image_tokens": 0
         }
       }
+    },
+    {
+      "role": "user",
+      "content": "hello",
+      "timestamp": "2025-12-04T06:13:32.108Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello! How can I assist you today? Whether you have questions about the Kenyan VASP regulations, AML/CFT compliance, or anything related to the CrypsenseAI platform, I'm here to help.",
+      "timestamp": "2025-12-04T06:13:32.108Z",
+      "tokenUsage": {
+        "prompt_tokens": 175,
+        "completion_tokens": 41,
+        "total_tokens": 216,
+        "cost": 0.0008475,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": null,
+          "upstream_inference_prompt_cost": 0.0004375,
+          "upstream_inference_completions_cost": 0.00041
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "image_tokens": 0
+        }
+      }
     }
   ]
 }
