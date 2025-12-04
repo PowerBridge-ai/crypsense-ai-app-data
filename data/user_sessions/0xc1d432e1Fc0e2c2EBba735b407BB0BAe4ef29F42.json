@@ -148,6 +148,37 @@
           "image_tokens": 0
         }
       }
+    },
+    {
+      "role": "user",
+      "content": "Review my profile and suggest ways I can improve my reputation score.",
+      "timestamp": "2025-12-04T15:26:53.334Z"
+    },
+    {
+      "role": "assistant",
+      "content": "To improve your reputation score on the CrypsenseAI platform, here are some general suggestions you might find helpful:\n\n1. **Complete Your Profile:**\n   - Ensure that all sections of your profile are filled out, including your bio, skills, and experience. A complete profile increases trustworthiness.\n\n2. **Engage in Courses:**\n   - Actively participate in the courses offered. Make sure to complete any quizzes and assignments to showcase your commitment to learning.\n\n3. **Contribute to the Community:**\n   - Engage in discussions on the platform. Provide helpful answers, share insights, and be an active member of the community.\n\n4. **Create Quality Content:**\n   - If the platform allows for user-generated content, consider writing articles or creating tutorials related to blockchain, cryptocurrency, or compliance topics.\n\n5. **Network with Peers:**\n   - Connect with other users and experts on the platform. Building a network can enhance your visibility and elevate your reputation.\n\n6. **Stay Updated:**\n   - Engage with the latest updates and news on the CrypsenseAI platform. Being informed about recent developments can make your contributions more valuable.\n\n7. **Provide Feedback:**\n   - Give constructive feedback on courses and platform features. This shows that you are interested in the platform's growth and improvement.\n\n8. **Be Consistent:**\n   - Regular engagement over time is often rewarded. Make a habit of logging in, participating, and contributing to activities.\n\nIf you can access specific features or options related to your reputation score, such as viewing the criteria or receiving personalized suggestions, that can also provide targeted actions for improvement.",
+      "timestamp": "2025-12-04T15:26:53.334Z",
+      "tokenUsage": {
+        "prompt_tokens": 188,
+        "completion_tokens": 330,
+        "total_tokens": 518,
+        "cost": 0.00377,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": null,
+          "upstream_inference_prompt_cost": 0.00047,
+          "upstream_inference_completions_cost": 0.0033
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "image_tokens": 0
+        }
+      }
     }
   ]
 }
