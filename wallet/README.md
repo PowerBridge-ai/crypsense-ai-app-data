@@ -1,3 +1,3 @@
 # Wallet Data
 
-This file contains data related to user wallets.
+This directory contains data related to user wallet.
