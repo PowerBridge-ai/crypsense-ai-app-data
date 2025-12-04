@@ -1,3 +1,3 @@
-# User Exchange History
+# User Exchange History Data
 
-This directory contains the history of a user's activities on the exchange, excluding swaps.
+This directory contains data related to user exchange history.
