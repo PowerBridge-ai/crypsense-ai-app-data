@@ -66,4 +66,10 @@
             { "moduleId": "2.1", "title": "Academy Skill Tracks" },
             { "moduleId": "2.2", "title": "Earning Rewards (STAR Points)" },
             { "moduleId": "2.3", "title": "The Micro-Task Marketplace" },
-            {
+            { "moduleId": "2.4", "title": "Skill Certification & NFTs" }
+          ]
+        }
+      ]
+    }
+  ]
+}
