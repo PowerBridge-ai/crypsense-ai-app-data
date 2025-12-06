@@ -89,7 +89,12 @@
           "id": "1",
           "title": "Introduction to Blockchain",
           "description": "Learn the fundamentals of blockchain technology.",
-          "modules": []
+          "modules": [
+            {
+              "moduleId": "mod-1765028950844",
+              "title": "TEST"
+            }
+          ]
         },
         {
           "id": "2",
