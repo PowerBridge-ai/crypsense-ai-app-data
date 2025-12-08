@@ -3,5 +3,10 @@
     "type": "USER_LOGIN",
     "timestamp": "2025-12-08T11:17:08.001Z",
     "details": "User connected wallet and was authenticated."
+  },
+  {
+    "type": "USER_LOGIN",
+    "timestamp": "2025-12-08T11:17:30.229Z",
+    "details": "User connected wallet and was authenticated."
   }
 ]
