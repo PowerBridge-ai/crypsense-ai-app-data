@@ -261,5 +261,14 @@
     "avatar": "https://picsum.photos/seed/0xeD3B235B67C457FF194BCa04dcf44847Ce935F89/100/100",
     "role": "Member",
     "status": "Active"
+  },
+  {
+    "id": 1765269288409,
+    "walletAddress": "0xCDAf35B3D9d47a2beae1B86F06614F525c3555dB",
+    "name": "User 0xCDAf...",
+    "email": "",
+    "avatar": "https://picsum.photos/seed/0xCDAf35B3D9d47a2beae1B86F06614F525c3555dB/100/100",
+    "role": "Member",
+    "status": "Active"
   }
 ]
