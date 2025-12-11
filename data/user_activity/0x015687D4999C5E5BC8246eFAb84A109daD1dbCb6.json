@@ -1,0 +1,7 @@
+[
+  {
+    "type": "USER_LOGIN",
+    "timestamp": "2025-12-11T08:28:40.408Z",
+    "details": "User connected wallet and was authenticated."
+  }
+]
