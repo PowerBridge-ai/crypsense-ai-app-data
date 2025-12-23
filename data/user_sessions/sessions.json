@@ -118,5 +118,10 @@
     "user": "0xc1d432e1Fc0e2c2EBba735b407BB0BAe4ef29F42",
     "event": "login",
     "timestamp": "2025-12-23T14:49:58.195Z"
+  },
+  {
+    "user": "0xc1d432e1Fc0e2c2EBba735b407BB0BAe4ef29F42",
+    "event": "logout",
+    "timestamp": "2025-12-23T14:56:48.751Z"
   }
 ]
