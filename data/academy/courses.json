@@ -5,5 +5,12 @@
     "description": "Add a description for your new course.",
     "status": "draft",
     "modules": []
+  },
+  {
+    "id": "course-1766498970525",
+    "title": "New Untitled Course",
+    "description": "Add a description for your new course.",
+    "status": "draft",
+    "modules": []
   }
 ]
