@@ -4,5 +4,19 @@
   "description": "Add a description for your new course.",
   "status": "draft",
   "modules": [],
-  "content": []
+  "content": [
+    {
+      "id": "lesson-1766510486425",
+      "type": "lesson",
+      "title": "What is Blockchain?",
+      "content": "<p>lesson description here</p>",
+      "videoUrl": "https://www.youtube.com/watch?v=K_ka9yGfqJM"
+    },
+    {
+      "id": "quiz-1766510506601",
+      "type": "quiz",
+      "title": "Quiz: What is Blockchain? ",
+      "questions": []
+    }
+  ]
 }
