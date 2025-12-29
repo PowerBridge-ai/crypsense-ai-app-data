@@ -188,5 +188,10 @@
     "user": "0x789eaB90e02Ed6Ad4C9c96c9bEA3eaF726651221",
     "event": "logout",
     "timestamp": "2025-12-28T15:30:47.794Z"
+  },
+  {
+    "user": "0xc1d432e1Fc0e2c2EBba735b407BB0BAe4ef29F42",
+    "event": "login",
+    "timestamp": "2025-12-29T02:12:00.712Z"
   }
 ]
