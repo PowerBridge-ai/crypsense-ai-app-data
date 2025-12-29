@@ -2,8 +2,9 @@
   {
     "id": "course-1766498766381",
     "title": "Universal Beginner Knowledge Blockchain Course",
-    "description": "Add a description for your new course.",
-    "status": "published"
+    "description": "description",
+    "status": "published",
+    "thumbnailUrl": "/uploads/1766534568747.png"
   },
   {
     "id": "course-1766498970525",
