@@ -389,6 +389,37 @@
               "image_tokens": 0
             }
           }
+        },
+        {
+          "role": "user",
+          "content": "i need help getting certified for vasp ",
+          "timestamp": "2025-12-30T17:14:37.243Z"
+        },
+        {
+          "role": "assistant",
+          "content": "Certainly! To become a certified Virtual Asset Service Provider (VASP) in Kenya, you'll need to follow several steps to ensure compliance with the Kenyan VASP Act, 2025, and the regulations set by the Capital Markets Authority (CMA) and the Central Bank of Kenya (CBK). Here’s a general outline of the process:\n\n1. **Understand the Requirements**: Make sure you’re familiar with the VASP Act, 2025, and any relevant regulations. This includes understanding the licensing process, operational requirements, and compliance obligations.\n\n2. **Prepare Documentation**: Gather necessary documents such as business registration details, compliance frameworks, and risk management procedures tailored to Anti-Money Laundering (AML) and Counter-Financing of Terrorism (CFT).\n\n3. **Establish a Compliance Program**: Develop an internal compliance program that includes:\n   - Know Your Customer (KYC) and customer due diligence procedures.\n   - Reporting mechanisms for suspicious activities.\n   - Continual staff training on compliance.\n\n4. **Apply for a License**: Submit your application through the appropriate channel specified by the CMA or CBK. This usually involves filling out forms and providing the documentation prepared.\n\n5. **Inspections and Reviews**: Be prepared for any inspections or reviews conducted by the regulatory authorities to assess your compliance.\n\n6. **Ongoing Compliance**: After certification, maintain compliance by staying updated on regulatory changes and adjusting your practices accordingly.\n\nFor any specific guidance or assistance with the CrypsenseAI platform's resources, let me know how I can help further!",
+          "timestamp": "2025-12-30T17:14:37.243Z",
+          "tokenUsage": {
+            "prompt_tokens": 227,
+            "completion_tokens": 319,
+            "total_tokens": 546,
+            "cost": 0.0037575,
+            "is_byok": false,
+            "prompt_tokens_details": {
+              "cached_tokens": 0,
+              "audio_tokens": 0,
+              "video_tokens": 0
+            },
+            "cost_details": {
+              "upstream_inference_cost": null,
+              "upstream_inference_prompt_cost": 0.0005675,
+              "upstream_inference_completions_cost": 0.00319
+            },
+            "completion_tokens_details": {
+              "reasoning_tokens": 0,
+              "image_tokens": 0
+            }
+          }
         }
       ]
     }
