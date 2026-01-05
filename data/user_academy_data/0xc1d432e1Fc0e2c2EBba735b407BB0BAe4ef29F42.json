@@ -1,0 +1,17 @@
+{
+  "userId": 2,
+  "walletAddress": "0xc1d432e1Fc0e2c2EBba735b407BB0BAe4ef29F42",
+  "quizzes": {
+    "quiz-1767511510216": {
+      "attempts": [
+        {
+          "score": 90,
+          "pointsEarned": 100,
+          "completedAt": "2026-01-05T19:05:03.299Z",
+          "timeTaken": 115,
+          "quizVersion": 1
+        }
+      ]
+    }
+  }
+}
