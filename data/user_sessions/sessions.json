@@ -578,5 +578,10 @@
     "user": "0x789eaB90e02Ed6Ad4C9c96c9bEA3eaF726651221",
     "event": "login",
     "timestamp": "2026-01-06T00:09:08.003Z"
+  },
+  {
+    "user": "0x789eaB90e02Ed6Ad4C9c96c9bEA3eaF726651221",
+    "event": "logout",
+    "timestamp": "2026-01-06T00:09:15.423Z"
   }
 ]
