@@ -1,0 +1,289 @@
+{
+  "id": "lesson-1766510486425",
+  "type": "lesson",
+  "title": "What is Blockchain?",
+  "content": "<p>lesson description here</p>",
+  "videoUrl": "https://www.youtube.com/watch?v=K_ka9yGfqJM",
+  "flashcards": [
+    {
+      "question": "The core feature of blockchain that eliminates single points of failure and censorship risk is known as _____.",
+      "answer": "decentralization"
+    },
+    {
+      "question": "\"How does blockchain technology ensure the integrity of its records",
+      "answer": "making them immutable?\""
+    },
+    {
+      "question": "What is the term for the set of predefined rules that nodes on a blockchain network follow to verify the legitimacy of transactions?",
+      "answer": "\"A consensus protocol"
+    },
+    {
+      "question": "\"What are the individual records of data on a blockchain called",
+      "answer": "each containing transactions"
+    },
+    {
+      "question": "What is the primary design purpose of Bitcoin (BTC)?",
+      "answer": "\"Bitcoin was created primarily as a peer-to-peer electronic cash system"
+    },
+    {
+      "question": "How does Ethereum's primary purpose differ from Bitcoin's?",
+      "answer": "\"Ethereum was developed as a versatile platform for smart contracts and decentralized applications (dApps)"
+    },
+    {
+      "question": "What type of consensus mechanism did Ethereum move to in September 2022 to become more secure and sustainable?",
+      "answer": "Ethereum moved to a Proof-of-Stake (PoS) consensus mechanism."
+    },
+    {
+      "question": "\"What is the approximate block time for Ethereum",
+      "answer": "leading to faster transaction confirmations compared to Bitcoin?\""
+    },
+    {
+      "question": "What is the approximate block time for Bitcoin?",
+      "answer": "Bitcoin blocks are added approximately every 10 minutes."
+    },
+    {
+      "question": "What is a 'smart contract' in the context of Ethereum?",
+      "answer": "\"It is a high-level program compiled to EVM bytecode that allows for credible"
+    },
+    {
+      "question": "What is the name of the runtime environment for executing smart contracts in Ethereum?",
+      "answer": "It is the Ethereum Virtual Machine (EVM)."
+    },
+    {
+      "question": "\"What is the primary high-level",
+      "answer": "contract-oriented programming language used for writing smart contracts on the EVM?\""
+    },
+    {
+      "question": "What is the unit of measurement for the computational effort required to execute operations on the Ethereum network?",
+      "answer": "This unit is called gas."
+    },
+    {
+      "question": "\"What is the term for tweaking Solidity code to perform the same job with fewer operations",
+      "answer": "thereby decreasing execution costs?\""
+    },
+    {
+      "question": "\"In Solidity gas optimization",
+      "answer": "why is it critical to minimize on-chain data storage?\""
+    },
+    {
+      "question": "\"For gas optimization in Solidity",
+      "answer": "which keyword should be used for variables whose values must be set at compile time and will never change?\""
+    },
+    {
+      "question": "\"For gas optimization in Solidity",
+      "answer": "which keyword should be used for variables whose values are set once in the constructor and cannot be changed afterward?\""
+    },
+    {
+      "question": "How do `constant` and `immutable` variables save gas in Solidity?",
+      "answer": "\"Their values are baked into the contract's bytecode"
+    },
+    {
+      "question": "\"In Solidity",
+      "answer": "why is using the `external` visibility modifier for functions generally more gas-efficient than `public` for outside calls?\""
+    },
+    {
+      "question": "What does wrapping arithmetic operations in an `unchecked` block in Solidity 0.8.0+ achieve?",
+      "answer": "\"It skips the compiler's automatic overflow and underflow checks"
+    },
+    {
+      "question": "\"As a gas optimization technique",
+      "answer": "if the same data from an external contract is needed multiple times within a single transaction"
+    },
+    {
+      "question": "What is a Centralized Exchange (CEX)?",
+      "answer": "\"A CEX is a platform operated by a company that acts as an intermediary"
+    },
+    {
+      "question": "What is a Decentralized Exchange (DEX)?",
+      "answer": "\"A DEX is a peer-to-peer marketplace where trades happen directly between users"
+    },
+    {
+      "question": "What is the primary security risk associated with using a Centralized Exchange (CEX)?",
+      "answer": "\"The primary risk is platform risk"
+    },
+    {
+      "question": "What is the main advantage of DEXs regarding user funds and privacy?",
+      "answer": "\"DEXs provide users with full control over their assets (self-custody) and enhanced privacy"
+    },
+    {
+      "question": "\"For what type of user are CEXs generally considered more suitable",
+      "answer": "and why?\""
+    },
+    {
+      "question": "\"In the context of crypto exchanges",
+      "answer": "what does the acronym KYC stand for?\""
+    },
+    {
+      "question": "What distinguishes a 'hot wallet' from a 'cold wallet'?",
+      "answer": "\"A hot wallet is connected to the internet"
+    },
+    {
+      "question": "What is the single most important element for securing a crypto wallet and enabling its recovery?",
+      "answer": "The seed phrase (or secret recovery phrase) is the most important element."
+    },
+    {
+      "question": "What is the function of a private key in a crypto wallet?",
+      "answer": "\"A private key grants control over a specific blockchain address"
+    },
+    {
+      "question": "What is the function of a public key in a crypto wallet?",
+      "answer": "\"A public key"
+    },
+    {
+      "question": "How does a seed phrase relate to private keys in a hierarchical deterministic (HD) wallet?",
+      "answer": "A seed phrase acts as the master key used to deterministically generate all the private keys and corresponding public addresses within the wallet."
+    },
+    {
+      "question": "What is the primary vulnerability of storing a seed phrase on an internet-connected device?",
+      "answer": "\"Internet-connected devices are vulnerable to remote hacks and malware that can extract the seed phrase"
+    },
+    {
+      "question": "The standard list of 2048 English words from which a seed phrase is generated is referred to as the _____.",
+      "answer": "BIP-39 standard Word List"
+    },
+    {
+      "question": "\"What legislation",
+      "answer": "signed into law on October 15"
+    },
+    {
+      "question": "\"Under Kenya's VASP Act 2025",
+      "answer": "which two regulatory bodies are given primary oversight of the crypto sector?\""
+    },
+    {
+      "question": "What specific crypto activities does the Central Bank of Kenya (CBK) supervise under the VASP Act?",
+      "answer": "The CBK supervises payment processors and stablecoin issuers."
+    },
+    {
+      "question": "What is the name of the global anti-money laundering standard that obligates VASPs to share user information during asset transfers?",
+      "answer": "It is the Financial Action Task Force (FATF) Travel Rule."
+    },
+    {
+      "question": "\"How does the FATF Travel Rule complement",
+      "answer": "rather than replace"
+    },
+    {
+      "question": "\"What is the ADAPT initiative",
+      "answer": "backed by the AfCFTA"
+    },
+    {
+      "question": "What are 'stablecoins' in the context of cryptocurrency?",
+      "answer": "\"Stablecoins are a type of cryptocurrency whose value is pegged to another asset"
+    },
+    {
+      "question": "\"What is the primary benefit of using stablecoins for cross-border payments",
+      "answer": "as envisioned by the ADAPT initiative?\""
+    },
+    {
+      "question": "Which country is set to begin the pilot phase for the ADAPT digital trade initiative in early 2026?",
+      "answer": "Kenya is set to begin the pilot phase in early 2026."
+    },
+    {
+      "question": "What are 'fiat on-ramps' and 'off-ramps' in the crypto ecosystem?",
+      "answer": "\"They are services that facilitate the exchange of traditional government-issued (fiat) currencies for crypto and vice versa"
+    },
+    {
+      "question": "\"What process involves paying employees or contractors in cryptocurrency",
+      "answer": "often using stablecoins like USDC?\""
+    },
+    {
+      "question": "Why are stablecoins like USDC often preferred for crypto payroll over volatile assets like BTC or ETH?",
+      "answer": "\"Stablecoins provide price stability"
+    },
+    {
+      "question": "What is the term for a cryptocurrency token standard on Ethereum that is used for interchangeable and divisible assets like utility tokens or stablecoins?",
+      "answer": "This is the ERC-20 token standard."
+    },
+    {
+      "question": "\"The token standard for unique",
+      "answer": "indivisible assets like digital collectibles or tokenized real estate on Ethereum is known as _____.\""
+    },
+    {
+      "question": "What does the term 'Real-World Asset (RWA) tokenization' refer to?",
+      "answer": "\"It is the process of representing ownership rights of physical or traditional financial assets (like real estate"
+    },
+    {
+      "question": "What is a major benefit of tokenizing traditionally illiquid assets like real estate?",
+      "answer": "Tokenization can increase liquidity by enabling fractional ownership and creating a globally accessible market on the blockchain."
+    },
+    {
+      "question": "\"What service",
+      "answer": "such as Chainlink Proof of Reserve"
+    },
+    {
+      "question": "\"In blockchain architecture",
+      "answer": "what type of chain is designed to perform a specialized operation like execution"
+    },
+    {
+      "question": "What problem does a modular blockchain architecture primarily aim to solve for monolithic chains like Ethereum?",
+      "answer": "\"It aims to solve scalability limitations by offloading core functions to specialized layers"
+    },
+    {
+      "question": "\"In a modular blockchain stack",
+      "answer": "which layer is responsible for ensuring all data necessary to validate transactions is readily available to network participants?\""
+    },
+    {
+      "question": "The Fireblocks SDK feature that allows deploying the same smart contract to the same address across multiple EVM chains is called _____.",
+      "answer": "Multichain Deployment"
+    },
+    {
+      "question": "What mechanism does Fireblocks use to ensure a smart contract gets the same address when deployed across multiple blockchains?",
+      "answer": "It uses a deterministic deployment mechanism."
+    },
+    {
+      "question": "\"What is the most prevalent type of cyberattack vector on Centralized Exchanges (CEXs)",
+      "answer": "accounting for 39 of 80 major incidents between 2009-2024?\""
+    },
+    {
+      "question": "\"According to a 2009-2024 study",
+      "answer": "which type of crypto exchange (CEX or DEX) experienced more cybersecurity incidents?\""
+    },
+    {
+      "question": "\"What is the most recurrent attack vector on Decentralized Exchanges (DEXs)",
+      "answer": "accounting for 40% of incidents from 2009-2024?\""
+    },
+    {
+      "question": "What is a 'pig butchering' scam?",
+      "answer": "It is a long-term fraud where scammers build emotional relationships with victims before persuading them to invest in a fake crypto platform."
+    },
+    {
+      "question": "\"A _____ is a crypto scam where developers artificially inflate a token's price through hype",
+      "answer": "then sell their holdings"
+    },
+    {
+      "question": "What is the purpose of a smart contract security audit?",
+      "answer": "\"It is a detailed technical review to identify and report vulnerabilities"
+    },
+    {
+      "question": "\"In a smart contract audit report",
+      "answer": "what does a 'Critical' risk classification signify?\""
+    },
+    {
+      "question": "What does an 'Informational' finding in a smart contract audit report typically address?",
+      "answer": "\"It addresses best practices"
+    },
+    {
+      "question": "\"In the context of blockchain security",
+      "answer": "what does a multi-signature (multisig) setup require?\""
+    },
+    {
+      "question": "Why is it recommended to use assembly language in Solidity only as a last resort for gas optimization?",
+      "answer": "\"Assembly is extremely error-prone"
+    },
+    {
+      "question": "What are 'opcodes' in the context of the Ethereum Virtual Machine (EVM)?",
+      "answer": "\"Opcodes are the EVM's low-level instruction set"
+    },
+    {
+      "question": "\"In Kenya",
+      "answer": "what is the significance of M-Pesa in the context of cryptocurrency adoption?\""
+    },
+    {
+      "question": "\"What is the term for government-issued currency that is not backed by a physical commodity",
+      "answer": "such as the US Dollar or Kenyan Shilling?\""
+    },
+    {
+      "question": "What key difference in supply exists between Bitcoin and fiat currencies?",
+      "answer": "\"Bitcoin has a fixed maximum supply of 21 million coins"
+    }
+  ]
+}
