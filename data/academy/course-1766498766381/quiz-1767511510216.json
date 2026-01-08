@@ -2,6 +2,9 @@
   "id": "quiz-1767511510216",
   "type": "quiz",
   "title": "Blockchain Technology Quiz",
+  "randomizeQuestions": true,
+  "totalPoints": 100,
+  "version": 1,
   "questions": [
     {
       "id": "q1",
@@ -283,8 +286,5 @@
       ],
       "points": 15
     }
-  ],
-  "randomizeQuestions": true,
-  "totalPoints": 100,
-  "version": 1
+  ]
 }
