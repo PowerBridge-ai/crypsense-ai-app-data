@@ -1,0 +1,571 @@
+{
+  "id": "quiz-1767875907385",
+  "type": "quiz",
+  "version": 1,
+  "title": "Advanced Blockchain Concepts Quiz",
+  "questions": [
+    {
+      "id": "q1",
+      "questionText": "What fundamental problem does blockchain aim to solve?",
+      "questionType": "multiple-choice",
+      "answers": [
+        {
+          "id": "a1",
+          "text": "Data encryption",
+          "isCorrect": false
+        },
+        {
+          "id": "a2",
+          "text": "Double spending",
+          "isCorrect": true
+        },
+        {
+          "id": "a3",
+          "text": "Network latency",
+          "isCorrect": false
+        },
+        {
+          "id": "a4",
+          "text": "Quantum computing vulnerabilities",
+          "isCorrect": false
+        }
+      ],
+      "points": 5
+    },
+    {
+      "id": "q2",
+      "questionText": "In the context of blockchain, what does \"decentralization\" imply?",
+      "questionType": "multiple-choice",
+      "answers": [
+        {
+          "id": "a1",
+          "text": "A single server stores all data",
+          "isCorrect": false
+        },
+        {
+          "id": "a2",
+          "text": "The ledger is replicated across many nodes",
+          "isCorrect": true
+        },
+        {
+          "id": "a3",
+          "text": "Only the creator can edit the ledger",
+          "isCorrect": false
+        },
+        {
+          "id": "a4",
+          "text": "Transactions are processed offline",
+          "isCorrect": false
+        }
+      ],
+      "points": 5
+    },
+    {
+      "id": "q3",
+      "questionText": "Which characteristic makes a blockchain immutable?",
+      "questionType": "multiple-choice",
+      "answers": [
+        {
+          "id": "a1",
+          "text": "Frequent manual audits",
+          "isCorrect": false
+        },
+        {
+          "id": "a2",
+          "text": "Cryptographic hashing of blocks",
+          "isCorrect": true
+        },
+        {
+          "id": "a3",
+          "text": "Centralized authority approval",
+          "isCorrect": false
+        },
+        {
+          "id": "a4",
+          "text": "Random data insertion",
+          "isCorrect": false
+        }
+      ],
+      "points": 5
+    },
+    {
+      "id": "q4",
+      "questionText": "How is a new block linked to its predecessor in a blockchain?",
+      "questionType": "multiple-choice",
+      "answers": [
+        {
+          "id": "a1",
+          "text": "By storing the previous block's hash",
+          "isCorrect": true
+        },
+        {
+          "id": "a2",
+          "text": "By encrypting the previous block",
+          "isCorrect": false
+        },
+        {
+          "id": "a3",
+          "text": "By copying the previous block's data verbatim",
+          "isCorrect": false
+        },
+        {
+          "id": "a4",
+          "text": "By deleting the previous block's hash",
+          "isCorrect": false
+        }
+      ],
+      "points": 5
+    },
+    {
+      "id": "q5",
+      "questionText": "What is a \"cryptographic hash\" best described as?",
+      "questionType": "multiple-choice",
+      "answers": [
+        {
+          "id": "a1",
+          "text": "A reversible encryption key",
+          "isCorrect": false
+        },
+        {
+          "id": "a2",
+          "text": "A unique digital fingerprint of data",
+          "isCorrect": true
+        },
+        {
+          "id": "a3",
+          "text": "A type of consensus algorithm",
+          "isCorrect": false
+        },
+        {
+          "id": "a4",
+          "text": "A public key for signature verification",
+          "isCorrect": false
+        }
+      ],
+      "points": 5
+    },
+    {
+      "id": "q6",
+      "questionText": "Which consensus mechanism relies on computational puzzle solving and high energy consumption?",
+      "questionType": "multiple-choice",
+      "answers": [
+        {
+          "id": "a1",
+          "text": "Proof of Stake",
+          "isCorrect": false
+        },
+        {
+          "id": "a2",
+          "text": "Proof of Work",
+          "isCorrect": true
+        },
+        {
+          "id": "a3",
+          "text": "Byzantine Fault Tolerance",
+          "isCorrect": false
+        },
+        {
+          "id": "a4",
+          "text": "Delegated Proof of Stake",
+          "isCorrect": false
+        }
+      ],
+      "points": 5
+    },
+    {
+      "id": "q7",
+      "questionText": "In Proof of Stake, what happens to a validator who attempts to cheat?",
+      "questionType": "multiple-choice",
+      "answers": [
+        {
+          "id": "a1",
+          "text": "They receive a bonus",
+          "isCorrect": false
+        },
+        {
+          "id": "a2",
+          "text": "They lose their staked cryptocurrency",
+          "isCorrect": true
+        },
+        {
+          "id": "a3",
+          "text": "They are promoted to miner",
+          "isCorrect": false
+        },
+        {
+          "id": "a4",
+          "text": "Nothing, the system ignores them",
+          "isCorrect": false
+        }
+      ],
+      "points": 5
+    },
+    {
+      "id": "q8",
+      "questionText": "Which blockchain platform is described as using Proof of Stake and being faster, adding a block every ~12 seconds?",
+      "questionType": "multiple-choice",
+      "answers": [
+        {
+          "id": "a1",
+          "text": "Bitcoin",
+          "isCorrect": false
+        },
+        {
+          "id": "a2",
+          "text": "Ethereum",
+          "isCorrect": true
+        },
+        {
+          "id": "a3",
+          "text": "Litecoin",
+          "isCorrect": false
+        },
+        {
+          "id": "a4",
+          "text": "Ripple",
+          "isCorrect": false
+        }
+      ],
+      "points": 5
+    },
+    {
+      "id": "q9",
+      "questionText": "How does Bitcoin's role differ from Ethereum's according to the transcript?",
+      "questionType": "multiple-choice",
+      "answers": [
+        {
+          "id": "a1",
+          "text": "Bitcoin is a programmable platform, Ethereum is digital gold",
+          "isCorrect": false
+        },
+        {
+          "id": "a2",
+          "text": "Bitcoin is primarily a store of value, Ethereum supports smart contracts",
+          "isCorrect": true
+        },
+        {
+          "id": "a3",
+          "text": "Both are identical in function",
+          "isCorrect": false
+        },
+        {
+          "id": "a4",
+          "text": "Ethereum uses Proof of Work, Bitcoin uses Proof of Stake",
+          "isCorrect": false
+        }
+      ],
+      "points": 5
+    },
+    {
+      "id": "q10",
+      "questionText": "What is the primary function of a \"block\" in a blockchain?",
+      "questionType": "multiple-choice",
+      "answers": [
+        {
+          "id": "a1",
+          "text": "To store a single transaction permanently",
+          "isCorrect": false
+        },
+        {
+          "id": "a2",
+          "text": "To act as a page containing multiple verified transactions and a timestamp",
+          "isCorrect": true
+        },
+        {
+          "id": "a3",
+          "text": "To encrypt data for privacy",
+          "isCorrect": false
+        },
+        {
+          "id": "a4",
+          "text": "To assign cryptocurrency rewards",
+          "isCorrect": false
+        }
+      ],
+      "points": 5
+    },
+    {
+      "id": "q11",
+      "questionText": "Which of the following best describes a \"node\" in a blockchain network?",
+      "questionType": "multiple-choice",
+      "answers": [
+        {
+          "id": "a1",
+          "text": "A central server controlling all data",
+          "isCorrect": false
+        },
+        {
+          "id": "a2",
+          "text": "A computer that participates in maintaining the shared ledger",
+          "isCorrect": true
+        },
+        {
+          "id": "a3",
+          "text": "A type of cryptocurrency wallet",
+          "isCorrect": false
+        },
+        {
+          "id": "a4",
+          "text": "A software used only for mining",
+          "isCorrect": false
+        }
+      ],
+      "points": 5
+    },
+    {
+      "id": "q12",
+      "questionText": "What would happen if a single transaction in an old block were altered?",
+      "questionType": "multiple-choice",
+      "answers": [
+        {
+          "id": "a1",
+          "text": "Only that block's hash would change, leaving later blocks unaffected",
+          "isCorrect": false
+        },
+        {
+          "id": "a2",
+          "text": "The alteration would be unnoticed",
+          "isCorrect": false
+        },
+        {
+          "id": "a3",
+          "text": "The change would break the chain for all subsequent blocks",
+          "isCorrect": true
+        },
+        {
+          "id": "a4",
+          "text": "The network would automatically revert the change",
+          "isCorrect": false
+        }
+      ],
+      "points": 5
+    },
+    {
+      "id": "q13",
+      "questionText": "Which term describes the \"single source of truth\" that blockchain provides?",
+      "questionType": "multiple-choice",
+      "answers": [
+        {
+          "id": "a1",
+          "text": "Centralized ledger",
+          "isCorrect": false
+        },
+        {
+          "id": "a2",
+          "text": "Distributed consensus",
+          "isCorrect": false
+        },
+        {
+          "id": "a3",
+          "text": "Immutable chain",
+          "isCorrect": true
+        },
+        {
+          "id": "a4",
+          "text": "Private database",
+          "isCorrect": false
+        }
+      ],
+      "points": 5
+    },
+    {
+      "id": "q14",
+      "questionText": "According to the transcript, what is a major drawback of Proof of Work?",
+      "questionType": "multiple-choice",
+      "answers": [
+        {
+          "id": "a1",
+          "text": "It is too fast",
+          "isCorrect": false
+        },
+        {
+          "id": "a2",
+          "text": "It consumes large amounts of energy",
+          "isCorrect": true
+        },
+        {
+          "id": "a3",
+          "text": "It requires no computational power",
+          "isCorrect": false
+        },
+        {
+          "id": "a4",
+          "text": "It centralizes control",
+          "isCorrect": false
+        }
+      ],
+      "points": 5
+    },
+    {
+      "id": "q15",
+      "questionText": "How does Proof of Stake achieve security?",
+      "questionType": "multiple-choice",
+      "answers": [
+        {
+          "id": "a1",
+          "text": "By using complex mathematical puzzles",
+          "isCorrect": false
+        },
+        {
+          "id": "a2",
+          "text": "By requiring validators to lock up cryptocurrency as stake",
+          "isCorrect": true
+        },
+        {
+          "id": "a3",
+          "text": "By relying on a single trusted authority",
+          "isCorrect": false
+        },
+        {
+          "id": "a4",
+          "text": "By encrypting all transactions",
+          "isCorrect": false
+        }
+      ],
+      "points": 5
+    },
+    {
+      "id": "q16",
+      "questionText": "Which application area is NOT mentioned as a potential use of blockchain beyond cryptocurrency?",
+      "questionType": "multiple-choice",
+      "answers": [
+        {
+          "id": "a1",
+          "text": "Voting systems",
+          "isCorrect": false
+        },
+        {
+          "id": "a2",
+          "text": "Supply chain tracking",
+          "isCorrect": false
+        },
+        {
+          "id": "a3",
+          "text": "Digital identity management",
+          "isCorrect": false
+        },
+        {
+          "id": "a4",
+          "text": "Online gaming consoles",
+          "isCorrect": true
+        }
+      ],
+      "points": 5
+    },
+    {
+      "id": "q17",
+      "questionText": "What is the maximum supply of Bitcoin mentioned in the transcript?",
+      "questionType": "multiple-choice",
+      "answers": [
+        {
+          "id": "a1",
+          "text": "10 million coins",
+          "isCorrect": false
+        },
+        {
+          "id": "a2",
+          "text": "21 million coins",
+          "isCorrect": true
+        },
+        {
+          "id": "a3",
+          "text": "100 million coins",
+          "isCorrect": false
+        },
+        {
+          "id": "a4",
+          "text": "Unlimited coins",
+          "isCorrect": false
+        }
+      ],
+      "points": 5
+    },
+    {
+      "id": "q18",
+      "questionText": "Which of the following best captures the relationship between blockchain and Bitcoin/Ethereum?",
+      "questionType": "multiple-choice",
+      "answers": [
+        {
+          "id": "a1",
+          "text": "Bitcoin and Ethereum are the underlying technology, blockchain is an application",
+          "isCorrect": false
+        },
+        {
+          "id": "a2",
+          "text": "Blockchain is the underlying technology, Bitcoin and Ethereum are applications built on it",
+          "isCorrect": true
+        },
+        {
+          "id": "a3",
+          "text": "They are unrelated concepts",
+          "isCorrect": false
+        },
+        {
+          "id": "a4",
+          "text": "Blockchain is a subset of Bitcoin",
+          "isCorrect": false
+        }
+      ],
+      "points": 5
+    },
+    {
+      "id": "q19",
+      "questionText": "What does \"digital gold\" refer to in the transcript?",
+      "questionType": "multiple-choice",
+      "answers": [
+        {
+          "id": "a1",
+          "text": "A metaphor for Bitcoin's store-of-value perception",
+          "isCorrect": true
+        },
+        {
+          "id": "a2",
+          "text": "An actual cryptocurrency backed by gold",
+          "isCorrect": false
+        },
+        {
+          "id": "a3",
+          "text": "A type of NFT",
+          "isCorrect": false
+        },
+        {
+          "id": "a4",
+          "text": "A new consensus algorithm",
+          "isCorrect": false
+        }
+      ],
+      "points": 5
+    },
+    {
+      "id": "q20",
+      "questionText": "What is the ultimate implication of blockchain's design as described in the final paragraph?",
+      "questionType": "multiple-choice",
+      "answers": [
+        {
+          "id": "a1",
+          "text": "It will replace all existing databases",
+          "isCorrect": false
+        },
+        {
+          "id": "a2",
+          "text": "It enables trustless, transparent systems that could reshape various industries",
+          "isCorrect": true
+        },
+        {
+          "id": "a3",
+          "text": "It makes central banks obsolete overnight",
+          "isCorrect": false
+        },
+        {
+          "id": "a4",
+          "text": "It guarantees 100% transaction speed",
+          "isCorrect": false
+        }
+      ],
+      "points": 5
+    }
+  ],
+  "randomizeQuestions": true,
+  "totalPoints": 100,
+  "showAnswersAfterCompletion": true
+}
