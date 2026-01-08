@@ -488,6 +488,37 @@
               "image_tokens": 0
             }
           }
+        },
+        {
+          "role": "user",
+          "content": "what is Crypsense",
+          "timestamp": "2026-01-08T12:42:57.022Z"
+        },
+        {
+          "role": "assistant",
+          "content": "Crypsense is a platform designed to provide education, tools, and resources for individuals and businesses interested in the world of cryptocurrency and blockchain technology. It aims to enable users in Africa, particularly in Kenya, to understand and participate in the digital economy effectively.\n\nThe platform typically offers a range of services and features, including:\n\n- **Educational Courses**: Modules covering blockchain technology, cryptocurrency trading, and regulatory compliance.\n- **Market Insights**: Access to analyses and updates on market trends and developments.\n- **Regulatory Compliance Support**: Guidance on adhering to Kenyan regulations regarding cryptocurrency.\n- **Community Engagement**: A space for users to connect, share knowledge, and support each other in the evolving digital asset landscape.\n\nCrypsenseAI is focused on ensuring that users are knowledgeable about best practices, remain compliant with local laws, and can make informed decisions in the crypto space. If you have any specific questions about your account or services offered on the platform, feel free to ask!",
+          "timestamp": "2026-01-08T12:42:57.022Z",
+          "tokenUsage": {
+            "prompt_tokens": 420,
+            "completion_tokens": 196,
+            "total_tokens": 616,
+            "cost": 0.00301,
+            "is_byok": false,
+            "prompt_tokens_details": {
+              "cached_tokens": 0,
+              "audio_tokens": 0,
+              "video_tokens": 0
+            },
+            "cost_details": {
+              "upstream_inference_cost": null,
+              "upstream_inference_prompt_cost": 0.00105,
+              "upstream_inference_completions_cost": 0.00196
+            },
+            "completion_tokens_details": {
+              "reasoning_tokens": 0,
+              "image_tokens": 0
+            }
+          }
         }
       ]
     }
