@@ -3,6 +3,9 @@
   "type": "quiz",
   "version": 1,
   "title": "Advanced Blockchain Concepts Quiz",
+  "randomizeQuestions": true,
+  "totalPoints": 100,
+  "showAnswersAfterCompletion": true,
   "questions": [
     {
       "id": "q1",
@@ -564,8 +567,5 @@
       ],
       "points": 5
     }
-  ],
-  "randomizeQuestions": true,
-  "totalPoints": 100,
-  "showAnswersAfterCompletion": true
+  ]
 }
