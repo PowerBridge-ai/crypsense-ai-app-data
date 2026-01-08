@@ -2,8 +2,8 @@
   "id": "lesson-1766510486425",
   "type": "lesson",
   "title": "What is Blockchain?",
-  "content": "<p>lesson description here</p>",
   "videoUrl": "https://www.youtube.com/watch?v=K_ka9yGfqJM",
+  "content": "<p>lesson description here</p>",
   "flashcards": [
     {
       "question": "The core feature of blockchain that eliminates single points of failure and censorship risk is known as _____.",
