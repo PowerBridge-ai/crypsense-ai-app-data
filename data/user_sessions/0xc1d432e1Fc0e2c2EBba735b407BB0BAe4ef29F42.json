@@ -457,6 +457,37 @@
               "image_tokens": 0
             }
           }
+        },
+        {
+          "role": "user",
+          "content": "what is kenya vasp",
+          "timestamp": "2026-01-08T12:42:33.739Z"
+        },
+        {
+          "role": "assistant",
+          "content": "In Kenya, a VASP, or Virtual Asset Service Provider, refers to any individual or entity that provides services related to virtual assets. This typically includes activities such as:\n\n- Exchanging between virtual assets and fiat currencies.\n- Transferring or facilitating the transfer of virtual assets.\n- Safekeeping and administration of virtual assets or instruments enabling control over virtual assets.\n- Participating in and providing financial services related to an issuer's offer or sale of a virtual asset.\n\nThe Kenya VASP Act of 2025 governs the operations of VASPs in Kenya, ensuring they adhere to standards related to anti-money laundering (AML), counter-financing of terrorism (CFT), and other regulatory requirements set forth by authorities like the Capital Markets Authority (CMA) and the Central Bank of Kenya (CBK). Compliance with these regulations is crucial for VASPs to operate legally within the Kenyan market.",
+          "timestamp": "2026-01-08T12:42:33.739Z",
+          "tokenUsage": {
+            "prompt_tokens": 227,
+            "completion_tokens": 180,
+            "total_tokens": 407,
+            "cost": 0.0023675,
+            "is_byok": false,
+            "prompt_tokens_details": {
+              "cached_tokens": 0,
+              "audio_tokens": 0,
+              "video_tokens": 0
+            },
+            "cost_details": {
+              "upstream_inference_cost": null,
+              "upstream_inference_prompt_cost": 0.0005675,
+              "upstream_inference_completions_cost": 0.0018
+            },
+            "completion_tokens_details": {
+              "reasoning_tokens": 0,
+              "image_tokens": 0
+            }
+          }
         }
       ]
     }
