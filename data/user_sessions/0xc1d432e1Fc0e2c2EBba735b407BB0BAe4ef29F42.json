@@ -422,6 +422,43 @@
           }
         }
       ]
+    },
+    "session_1767876133193": {
+      "startTime": "2026-01-08T12:42:20.217Z",
+      "inferredTopic": "New Conversation",
+      "messages": [
+        {
+          "role": "user",
+          "content": "hello",
+          "timestamp": "2026-01-08T12:42:20.217Z"
+        },
+        {
+          "role": "assistant",
+          "content": "Hello! How can I assist you today? Whether you have questions about cryptocurrency regulations, the CrypsenseAI platform, or anything related to Kenyan VASP compliance, I'm here to help.",
+          "timestamp": "2026-01-08T12:42:20.217Z",
+          "tokenUsage": {
+            "prompt_tokens": 176,
+            "completion_tokens": 38,
+            "total_tokens": 214,
+            "cost": 0.00082,
+            "is_byok": false,
+            "prompt_tokens_details": {
+              "cached_tokens": 0,
+              "audio_tokens": 0,
+              "video_tokens": 0
+            },
+            "cost_details": {
+              "upstream_inference_cost": null,
+              "upstream_inference_prompt_cost": 0.00044,
+              "upstream_inference_completions_cost": 0.00038
+            },
+            "completion_tokens_details": {
+              "reasoning_tokens": 0,
+              "image_tokens": 0
+            }
+          }
+        }
+      ]
     }
   }
 }
