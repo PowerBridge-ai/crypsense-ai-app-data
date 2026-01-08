@@ -1,0 +1,290 @@
+{
+  "id": "quiz-1767511510216",
+  "type": "quiz",
+  "title": "Blockchain Technology Quiz",
+  "questions": [
+    {
+      "id": "q1",
+      "questionText": "What fundamental issue does blockchain technology aim to resolve in the digital realm?",
+      "questionType": "multiple-choice",
+      "answers": [
+        {
+          "id": "a",
+          "text": "The challenge of verifying physical documents online.",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "The 'double spending' problem, preventing the duplication of digital assets.",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "The lack of high-speed internet access in rural areas.",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "The increasing cost of data storage.",
+          "isCorrect": false
+        }
+      ],
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "questionText": "In traditional financial systems, what entity typically manages and validates transactions, and what is a key vulnerability of this approach?",
+      "questionType": "multiple-choice",
+      "answers": [
+        {
+          "id": "a",
+          "text": "A distributed network; susceptibility to hacking.",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "A central authority (like a bank); a single point of failure.",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "A peer-to-peer system; lack of regulation.",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "An automated algorithm; potential for coding errors.",
+          "isCorrect": false
+        }
+      ],
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "questionText": "What are the two defining characteristics of a blockchain ledger that differentiate it from a traditional bank ledger?",
+      "questionType": "multiple-choice",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Centralized and mutable.",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Decentralized and immutable.",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "Encrypted and proprietary.",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "Anonymous and unregulated.",
+          "isCorrect": false
+        }
+      ],
+      "points": 10
+    },
+    {
+      "id": "q4",
+      "questionText": "What is the role of 'nodes' in a blockchain network, and why is their distributed nature significant?",
+      "questionType": "multiple-choice",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Nodes are central servers that control transaction fees; their distribution ensures lower costs.",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Nodes are computers that maintain a copy of the ledger; their distribution enhances security and transparency.",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "Nodes are specialized hardware for encrypting data; their distribution speeds up transaction processing.",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "Nodes are regulatory bodies that oversee blockchain activity; their distribution prevents fraud.",
+          "isCorrect": false
+        }
+      ],
+      "points": 10
+    },
+    {
+      "id": "q5",
+      "questionText": "How does a 'cryptographic hash' function to secure data within a blockchain?",
+      "questionType": "multiple-choice",
+      "answers": [
+        {
+          "id": "a",
+          "text": "It compresses the data to save storage space.",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "It generates a unique 'fingerprint' of the data, making any alteration easily detectable.",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "It encrypts the data, making it unreadable to unauthorized users.",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "It verifies the identity of the sender of the data.",
+          "isCorrect": false
+        }
+      ],
+      "points": 10
+    },
+    {
+      "id": "q6",
+      "questionText": "How does the chaining of blocks contribute to the immutability of a blockchain?",
+      "questionType": "multiple-choice",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Each block contains the hash of the previous block, so altering one block requires altering all subsequent blocks.",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Each block is encrypted with a unique key, making it impossible to decrypt previous blocks.",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Blocks are stored in a geographically distributed manner, making it difficult to access them all.",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "Blocks are timestamped, making it easy to identify and reject any altered blocks.",
+          "isCorrect": false
+        }
+      ],
+      "points": 10
+    },
+    {
+      "id": "q7",
+      "questionText": "What is a 'consensus mechanism' in the context of blockchain, and what role does it play?",
+      "questionType": "multiple-choice",
+      "answers": [
+        {
+          "id": "a",
+          "text": "It's a method for encrypting data; it ensures data privacy.",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "It's a set of rules for agreeing on valid transactions; it maintains network security and synchronization.",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "It's a system for distributing transaction fees; it incentivizes participation.",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "It's a process for verifying user identities; it prevents fraud.",
+          "isCorrect": false
+        }
+      ],
+      "points": 10
+    },
+    {
+      "id": "q8",
+      "questionText": "What is the primary difference between 'proof of work' and 'proof of stake' consensus mechanisms?",
+      "questionType": "multiple-choice",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Proof of work uses economic incentives, while proof of stake relies on computational power.",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Proof of work requires solving complex math problems, while proof of stake involves staking cryptocurrency.",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "Proof of work is more energy-efficient than proof of stake.",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "Proof of work is faster at adding new blocks than proof of stake.",
+          "isCorrect": false
+        }
+      ],
+      "points": 15
+    },
+    {
+      "id": "q9",
+      "questionText": "What was the original intended purpose of Bitcoin, and how has its primary function evolved over time?",
+      "questionType": "multiple-choice",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Originally designed as a platform for smart contracts, it's now primarily used for data storage.",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Originally intended as a peer-to-peer electronic cash system, it's now largely seen as a store of value.",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "Originally created for secure messaging, it's now used for decentralized finance.",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "Originally designed for supply chain management, it's now used for digital identity verification.",
+          "isCorrect": false
+        }
+      ],
+      "points": 10
+    },
+    {
+      "id": "q10",
+      "questionText": "Beyond cryptocurrencies, what are some potential applications of blockchain technology mentioned in the text?",
+      "questionType": "multiple-choice",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Only financial transactions and supply chain management.",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Voting systems, supply chains, property records, and digital identities.",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "Social media platforms and online gaming.",
+          "isCorrect": false
+        },
+        {
+          "id": "d",
+          "text": "Artificial intelligence and robotics.",
+          "isCorrect": false
+        }
+      ],
+      "points": 15
+    }
+  ],
+  "randomizeQuestions": true,
+  "totalPoints": 100,
+  "version": 1
+}
